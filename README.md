@@ -1,3 +1,10 @@
+# Tanishk Universe Portfolio
+
+🌌 **Live Portfolio:** (https://tanishk-universe.netlify.app/)
+
+An interactive 3D universe-themed portfolio showcasing my projects, skills, education, experience, and achievements.
+
+
 # Tanishk Kekan — Personal Universe
 
 An interactive 3D "personal universe" portfolio built with Three.js. The site
