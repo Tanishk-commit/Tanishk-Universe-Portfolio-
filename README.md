@@ -4,16 +4,6 @@
 
 An interactive 3D universe-themed portfolio showcasing my projects, skills, education, experience, and achievements.
 
-
-# Tanishk Kekan — Personal Universe
-
-An interactive 3D "personal universe" portfolio built with Three.js. The site
-is a single self-contained HTML file — no build step, no dependencies to
-install, no bundler. Open it in a browser and it runs.
-
-**Live artifact:** https://claude.ai/artifact/2xA5AtzJdTBw5knyPT1wfA
-(private until you publish/share it — see [Sharing the artifact](#sharing-the-claude-artifact) below)
-
 ---
 
 ## What's in it
